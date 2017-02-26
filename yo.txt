@@ -1,0 +1,13 @@
+< 
+"dfdfdfd\"1231#$#$#@" 
+'sd'd' 
+123.2323 .1212dss .sddd232 
+>= +1231 
+int a = 123 : 
+b = "khadija" : 
+char d = 'a' : 
+if ( a JGE 123 ) 
+< 
+a = 34 : 
+/> 
+/> 
